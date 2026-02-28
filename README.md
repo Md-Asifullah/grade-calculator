@@ -50,7 +50,7 @@ Enter marks for **3 subjects (0–100)** and instantly get **Total (out of 300)*
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Grade Calculator App](screenshots/grade-calculator-app.png)
 
