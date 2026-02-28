@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="corporateGreen">#94C35F</color>
+    <color name="bgColor">#eeeeee</color>
+    <color name="deepBlue">#001f4f</color>
+    <color name="strokeColor">#B0BEC5</color>
+    <color name="lightGreen">#a1c959</color>
+    <color name="green">#7fbc56</color>
+    <color name="grayBlue">#373E59</color>
+    <color name="fGrade">#F44336</color>
+    <color name="pGrade">#0E8C00</color>
+</resources>
